@@ -37,9 +37,3 @@ collectionItemBook5[8].before(collectionItemBook5[5]);
 newElement.textContent = 'Глава 8: За пределами ES6';
 
 collectionItemBook6[9].before(newElement);
-
-console.log ('itemsBook', itemsBook);
-console.log ('parentItemBook6', parentItemBook6);
-console.log ('collectionItemBook6', collectionItemBook6);
- 
-console.log (newElement);
